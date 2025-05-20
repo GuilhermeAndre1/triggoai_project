@@ -1,4 +1,4 @@
-# Documentação do Projeto - Dashboard de Vendas
+# Documentação do Projeto - Triggo.ai
 
 ## Introdução
 
