@@ -28,10 +28,10 @@ Baixe o dataset pelo Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-e
 Você é livre para alterar o nome da pasta e dos arquivos, apenas não se esqueça de atualizar no código.
 
 # Execução
-Execute o arquivo principal:
+Execute o notebook principal:
 
 ```
-python app.py
+main.ipynb
 ```
 
 # Observações
