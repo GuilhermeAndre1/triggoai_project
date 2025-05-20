@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 4. Baixe o Dataset
 
-Baixe o dataset pelo Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_customers_dataset.csv) e após extrair, adicione os arquivos .csv em uma pasta chamada dataset na pasta do repositório, exemplo: dataset\olist_customers_dataset.csv
+Baixe o dataset pelo Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_customers_dataset.csv) e após extrair, adicione os arquivos .csv em uma pasta chamada dataset na pasta do repositório, exemplo: pasta_do_projeto\dataset\olist_customers_dataset.csv
 
 Você é livre para alterar o nome da pasta e dos arquivos, apenas não se esqueça de atualizar no código.
 
